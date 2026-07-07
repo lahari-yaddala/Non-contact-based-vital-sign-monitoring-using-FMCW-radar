@@ -1,4 +1,4 @@
-# Non-contact-based-vital-sign-monitoring-using-FMCW-radar
+
 # Non-Contact Vital Sign Detection Using FMCW Radar and CNN
 
 This project presents a non-contact vital sign monitoring system that uses FMCW radar and Convolutional Neural Networks (CNN) to detect and classify respiration and heart rate patterns. Radar signals are processed into spectrograms, which are then classified into six categories: Heart Slow, Heart Normal, Heart Fast, Breath Slow, Breath Normal, and Breath Fast.
